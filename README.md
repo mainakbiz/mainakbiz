@@ -1,4 +1,4 @@
-## hey! i'm mainak
+### hey! i'm mainak
 
 i enjoy both **design** and **development**, which means i like building things for the web
 that look good, work well, and are easy to maintain.
