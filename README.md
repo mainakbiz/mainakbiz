@@ -1,34 +1,27 @@
-# hey, I'm YOUR NAME.
+<div align="center">
 
-I design things and then build them.
+# Mainak
 
-Currently exploring **interfaces, AI & the web.**
+### DESIGN ENGINEER · BUILDER · HUMAN
 
-→ [work](#work) · [writing](#writing) · [elsewhere](#elsewhere)
+I design interfaces, build products,
+and occasionally make things that shouldn't exist.
 
+<br>
 
-### selected work
+[ website ] · [ x ] · [ linkedin ] · [ email ]
 
-**Project Name** — one sentence about what it does.  
-`design` `frontend` `ai`
+</div>
 
-**Project Name** — one sentence about what it does.  
-`product` `typescript` `interaction`
+---
 
-**Project Name** — one sentence about what it does.  
-`experiment` `creative coding`
-
-
-### currently
-
-building `_____`  
-learning `_____`  
-thinking about `_____`
-
-
-### elsewhere
-
-[website] · [x] · [linkedin] · [email]
-
-
-<sub>made with curiosity · last updated automatically</sub>
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  SYSTEM / 01                                                     │
+│                                                                  │
+│  STATUS              ● ONLINE                                    │
+│  CURRENTLY           building something interesting              │
+│  FOCUS               design × code × AI                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
