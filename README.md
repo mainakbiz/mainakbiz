@@ -13,8 +13,8 @@ This is a place for my projects, experiments, and random things I'm working on.
 ### Tools & Tech
 - React, TypeScript, Next.js
 - Tailwind CSS, Motion, GSAP
-- Figma
-- Git, GitHub, VS Code
+- Figma, Paper
+- Git, GitHub, VS Code, Zed
 
 ---
 
