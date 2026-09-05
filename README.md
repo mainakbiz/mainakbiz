@@ -1,16 +1,34 @@
-## Hi there 👋
+# hey, I'm YOUR NAME.
 
-<!--
-**mainakbiz/mainakbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design things and then build them.
 
-Here are some ideas to get you started:
+Currently exploring **interfaces, AI & the web.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ [work](#work) · [writing](#writing) · [elsewhere](#elsewhere)
+
+
+### selected work
+
+**Project Name** — one sentence about what it does.  
+`design` `frontend` `ai`
+
+**Project Name** — one sentence about what it does.  
+`product` `typescript` `interaction`
+
+**Project Name** — one sentence about what it does.  
+`experiment` `creative coding`
+
+
+### currently
+
+building `_____`  
+learning `_____`  
+thinking about `_____`
+
+
+### elsewhere
+
+[website] · [x] · [linkedin] · [email]
+
+
+<sub>made with curiosity · last updated automatically</sub>
